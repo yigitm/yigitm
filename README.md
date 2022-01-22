@@ -1,6 +1,5 @@
 
 ## Former tech. support & transitioned to ✨ web development ✨
-![Banner](https://coding.blog/img/account-banner.svg)
 
 ### Studying in software development school: &nbsp;![Microverse](https://img.shields.io/badge/Microverse-blueviolet?style=for-the-badge&logo=appveyor)
 
