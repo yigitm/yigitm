@@ -1,7 +1,7 @@
 
 ## Former tech. support & transitioned to web development
 
- Studying in software development school: &nbsp;![Microverse](https://img.shields.io/badge/Microverse-blueviolet?style=for-the-badge&logo=appveyor)
+###Studying in software development school: &nbsp;![Microverse](https://img.shields.io/badge/Microverse-blueviolet?style=for-the-badge&logo=appveyor)
 
 ### :triangular_ruler: &nbsp;Learning: &nbsp; ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ### :white_check_mark: &nbsp;Languages:  &nbsp;![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![Css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
