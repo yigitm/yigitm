@@ -1,7 +1,7 @@
 
 # About 
-I worked in two diffrent SaaS start-up. </br>
-I had a generalist technical background with hands-on coding experience & customer-centric roles.</br>
+I worked as a software specialist in aviation e-learning and restaurant management SaaS startup. </br></br>
+I am experienced in customer-faced roles & had a generalist technical background with hands-on coding experience. </br></br>
 I am looking for roles in development / test / support teams to solve business problems in a positive, supportive, diverse environment.
 
 # Skills
