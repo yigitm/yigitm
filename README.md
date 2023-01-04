@@ -1,8 +1,6 @@
 
 # About 
-I am an experienced software specialist. </br></br>
-I worked in customer-centric roles in aviation e-learning & restaurant management SaaS startups and had a generalist technical background with hands-on coding experience. </br></br>
-I am looking for roles in development / test / support teams to solve business problems in a positive, supportive, diverse environment.
+I have a generalist technical background and worked as a software specialist in aviation e-learning & hospitality domains. I like to tackle with technical problems & love every kind of guitar nerd.
 
 # Skills
  
